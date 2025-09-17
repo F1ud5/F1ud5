@@ -1,16 +1,16 @@
 ## Hi there 👋 Blake Flud, here.
  I'm currently leveling up to Network Admin
 
-#🌱 Currently studying:
- •CCNA
+# 🌱 Currently studying:
+ •CCNA  
  •Automation via ServiceNow and Powershell
 
-#🔭 Currently working on:
- •PrinterAutomation Framework project
+# 🔭 Currently working on:
+ •PrinterAutomation Framework project  
  •Self-hosted homelab (containerized hosting for videogame servers & more)
 
-#💬 Ask me about:
- •Motorcycles
+# 💬 Ask me about:
+ •Motorcycles  
  •Pokemon
 <!--
 **F1ud5/F1ud5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
